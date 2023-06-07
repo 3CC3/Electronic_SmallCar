@@ -1,2 +1,2 @@
 # Electronic_SmallCar
-小车
+基于STM32F103C8T6的小车
